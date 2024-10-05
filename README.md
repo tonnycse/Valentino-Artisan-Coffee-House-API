@@ -38,16 +38,12 @@ This repository also includes a GitHub Actions workflow to automate the running 
 
 https://api.badgr.io/public/assertions/AVuNlNGDQiyNdXmbaDAmLQ?identity__email=tonnyalam98%40gmail.com
 
-**Getting Started**
-
 **To run the collections:**
 
 - Clone this repository.
 - Install Postman (if you haven't already).
 - Import the collections from the repository into your Postman workspace.
 - Run the tests using the Collection Runner or the Postman CLI.
-
-**How to Use**
 
 **Running Tests:** Import the collection into Postman and run it using either the Collection Runner or via the CLI.
 
