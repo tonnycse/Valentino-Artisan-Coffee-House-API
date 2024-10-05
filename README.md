@@ -36,7 +36,7 @@ This repository also includes a GitHub Actions workflow to automate the running 
 
 **Badge**
 
-https://badgr.com/public/assertions/AVuNlNGDQiyNdXmbaDAmLQ
+https://api.badgr.io/public/assertions/AVuNlNGDQiyNdXmbaDAmLQ?identity__email=tonnyalam98%40gmail.com
 
 **Getting Started**
 
