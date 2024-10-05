@@ -36,7 +36,7 @@ This repository also includes a GitHub Actions workflow to automate the running 
 
 **Badge**
 
-https://api.badgr.io/public/assertions/AVuNlNGDQiyNdXmbaDAmLQ
+https://badgr.com/public/assertions/AVuNlNGDQiyNdXmbaDAmLQ
 
 **Getting Started**
 
@@ -56,6 +56,7 @@ https://api.badgr.io/public/assertions/AVuNlNGDQiyNdXmbaDAmLQ
 **Resources**
 
 **Course Note:** https://github.com/vdespa/automation-with-postman-course/blob/main/course-notes.md
+
 **Postman Workspace:** https://www.postman.com/valentins-team/test-automation-valentino-s-artisan-coffee-house-api/overview
 
 **Acknowledgments**
