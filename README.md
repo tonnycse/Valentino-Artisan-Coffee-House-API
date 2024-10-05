@@ -1,6 +1,6 @@
 # Valentino-Artisan-Coffee-House-API
 
-**Postman Beginner's Course - API Test Automation**
+**Postman API Test Automation**
 
 This repository contains my work for the Postman Beginner's Course on API Test Automation. Throughout the course, I learned how to create and automate API tests using Postman, including integrating tests into CI/CD pipelines. I have completed all the assignments and earned the official Postman badge.
 
@@ -12,7 +12,7 @@ The course covered:
 - Automating test execution with various Postman tools (Collection Runner, Postman CLI).
 - Running tests using CI/CD tools like GitHub Actions.
   
-**Key Concepts Learned**
+**Key Concepts**
 
 - **Manual API Testing:** Learned how to manually test different API endpoints before automating them.
 - **Writing API Tests in Postman:** Developed automated API tests using JavaScript scripts.
